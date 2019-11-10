@@ -67,6 +67,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-### `npm run build` for Dev testing
+### `npm run dev` for Dev testing
 
 This script was derived from: https://www.freecodecamp.org/news/building-an-electron-application-with-create-react-app-97945861647c/
